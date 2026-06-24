@@ -20,13 +20,12 @@
 ## About Me
 
 - 🎓 **Bachelor of Software Engineering (Honours)** @ Deakin University *(WAM 87.1 | GPA 3.9)*
-- 🔭 Passionate about **IoT systems, embedded solutions & full-stack development**
 - 🏆 Currently in **Year 4** — seeking part-time or internship opportunities
 - 🌏 Based in **Melbourne, VIC, Australia**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <div>
