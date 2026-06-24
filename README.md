@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Jade!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20Student%20%7C%20IoT%20%7C%20Full-Stack%20%7C%20Project%20Lead&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Jade!%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20Student%20%7C%20IoT%20%7C%20Full-Stack%20%7C%20Project%20Lead&descAlignY=55&descSize=16" />
 </div>
 
 <div align="center">
@@ -79,17 +79,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
 </div>
-
----
-
-## 💼 Experience Highlights
-
-| Role | Organisation | Period |
-|------|-------------|--------|
-| 🎯 Project Lead | RedbackOperations | Mar–Jun 2026 |
-| 💻 Coding Facilitator Intern | Aubot | Nov 2025–Mar 2026 |
-| 🔧 Junior Project & IoT Lead | Databytes | Jul–Oct 2025 |
-| 🧑‍💻 Junior Software Developer | Meta61 | Nov 2024–Feb 2025 |
 
 ---
 
