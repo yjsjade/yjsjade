@@ -17,13 +17,12 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 - 🎓 **Bachelor of Software Engineering (Honours)** @ Deakin University *(WAM 87.1 | GPA 3.9)*
 - 🔭 Passionate about **IoT systems, embedded solutions & full-stack development**
 - 🏆 Currently in **Year 4** — seeking part-time or internship opportunities
 - 🌏 Based in **Melbourne, VIC, Australia**
-- 👩‍💼 Head of Events @ Deakin Volunteering Club | Dev Committee @ Software Engineering Club
 
 ---
 
@@ -80,49 +79,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yjsjade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjsjade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yjsjade&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Real-Time Health Monitoring System *(2024–2025)*
-> Wearable health monitor with emergency alerting using Arduino, MQTT, and cloud integration.
-
-- 🔬 Built an **Arduino Nano 33 IoT** wearable with MAX30105 biometric sensor and multi-threaded heart rate monitoring
-- ☁️ Engineered a real-time data pipeline via **Firebase, Node-RED & MQTT** brokers for low-latency emergency alerts
-- 📺 Developed a **Raspberry Pi** monitoring station with live patient data visualisation
-
-**Tech:** `Arduino` `Raspberry Pi` `MQTT` `Firebase` `Node-RED` `C++`
-
----
-
-### 🌡️ Automatic Enclosure Humidity Maintainer *(2023–2024)*
-> Automated IoT system for maintaining ideal humidity in sensitive environments (e.g. reptile enclosures).
-
-- 📡 Integrated microcontrollers with humidity/temperature sensors for continuous monitoring
-- ⚡ Implemented relay-based control of humidifiers and fans for real-time environmental adjustments
-
-**Tech:** `Arduino` `IoT` `C++` `Embedded Systems`
-
----
-
-### 🚴 SmartBike VR System *(2026)*
-> Led cross-functional team to integrate IoT hardware, VR gameplay, and real-time communication as Project Lead at RedbackOperations.
-
-**Tech:** `Raspberry Pi` `IoT` `MQTT` `VR` `Systems Integration`
 
 ---
 
